@@ -1,1 +1,2 @@
 # DataScienceEcosystem
+Data science involves extracting insights from data using tools like Python (NumPy, Pandas), R (ggplot2), and machine learning libraries (Scikit-learn, TensorFlow). Visualization is achieved with Matplotlib and Seaborn, while Pandas and Dplyr handle data cleaning. Statistical analysis employs SciPy and StatsModels. For big data, tools include Hadoop and Spark, and databases like SQL
